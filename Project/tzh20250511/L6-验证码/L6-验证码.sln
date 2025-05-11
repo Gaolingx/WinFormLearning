@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L6-验证码", "L6-验证码\L6-验证码.csproj", "{C1ACFE30-97DA-488A-9835-C3AD83BAB080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1ACFE30-97DA-488A-9835-C3AD83BAB080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1ACFE30-97DA-488A-9835-C3AD83BAB080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1ACFE30-97DA-488A-9835-C3AD83BAB080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1ACFE30-97DA-488A-9835-C3AD83BAB080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CF04C45-D245-48A4-B9A4-FEACC8CCC5A8}
+	EndGlobalSection
+EndGlobal

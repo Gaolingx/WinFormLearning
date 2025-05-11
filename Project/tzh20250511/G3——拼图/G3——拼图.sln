@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G3——拼图", "G3——拼图\G3——拼图.csproj", "{5AE081E4-1FEE-4E8F-9008-612053779C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE081E4-1FEE-4E8F-9008-612053779C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE081E4-1FEE-4E8F-9008-612053779C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE081E4-1FEE-4E8F-9008-612053779C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE081E4-1FEE-4E8F-9008-612053779C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {821E3584-60D5-4D19-AF0F-07CF8F126D0A}
+	EndGlobalSection
+EndGlobal
